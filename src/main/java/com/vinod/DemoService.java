@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class DemoService {
 
 	public void m1() {
-		System.out.println("Hello Aditya Welcome to first git project!");
+		System.out.println("Hello Aditya & Akash Welcome to first git project!");
 	}
 }
