@@ -10,10 +10,10 @@ public class FebonnaciSeries{
 		
 		int num= sc.nextInt();
 	
-	int a=0;
-	int b=1;
+	 int a=0;
+	 int b=1;
 	
-	int c;
+	 int c;
 	 while(num>=0){
 		
 		c=a+b;
