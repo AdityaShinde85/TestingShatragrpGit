@@ -10,15 +10,15 @@ public class FebonnaciSeries{
 		
 		int num= sc.nextInt();
 	
-	int e=0;
+	int a=0;
 	int b=1;
 	
 	int c;
 	while(num>=0){
 		
-		c=e+b;
-		System.out.println(e);
-		e=b;
+		c=a+b;
+		System.out.println(a);
+		a=b;
 		b=c;
 		
 		
