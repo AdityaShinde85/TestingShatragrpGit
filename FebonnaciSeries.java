@@ -14,7 +14,7 @@ public class FebonnaciSeries{
 	int b=1;
 	
 	int c;
-	while(num>=0){
+	 while(num>=0){
 		
 		c=a+b;
 		System.out.println(a);
